@@ -1,6 +1,6 @@
 ##Functions
 
-A <i><b>function</b></i> is a way of maching up one set of numbers with another. The first set of numbers is called the <b><i>domain</i></b>. For each of the numbers in the domain, the function assigns exactly one number from the other set, the range.
+A  function is a way of maching up one set of numbers with another. The first set of numbers is called the domain. For each of the numbers in the domain, the function assigns exactly one number from the other set, the range.
 
 For example, the domain of the function could be the set of numbers {1, 4, 9, 25, 100}, and the range could be {1, 2, 3, 5, 10}. Suppose the function takes 1 to 1, 4 to 4,2, 9 to 3, 25 to 5, and 100 to 10. This could be illustrated by the following:
 ```
@@ -32,13 +32,16 @@ However, if the domain were large , this would get very tedious. It is much easi
 f(a number) = the square root of that number
 ```
 
-Of course, anyone with experience in algebra knows that writing "a number" over and over is a waste of time. Why not just pick a <i>variable</i> to represent the number? Just as <i>f</i> is a typical name for a function, little <i>x</i> is often used for a variable name. Using both, here is a nice way to represent our function <i>f</i>:
+Of course, anyone with experience in algebra knows that writing "a number" over and over is a waste of time. Why not just pick a variable to represent the number? Just as **f** is a typical name for a function, little x is often used for a variable name. Using both, here is a nice way to represent our function **f**:
 
-$$ f(x) = \sqrt{x} $$
+![](http://upload-images.jianshu.io/upload_images/1384772-7f70e7337843d8b0.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 This tells us that putting a number into the function <i>f</i> is the same as putting it into . Thus,
 
-$$f(25) = \sqrt{25} = 5 $$ and $$f(4) = \sqrt{4} = 2.$$
+![](http://upload-images.jianshu.io/upload_images/1384772-8e5ef1c985ddc668.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ and ![](http://upload-images.jianshu.io/upload_images/1384772-ea3d6c73748d5299.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 
@@ -47,57 +50,67 @@ $$f(25) = \sqrt{25} = 5 $$ and $$f(4) = \sqrt{4} = 2.$$
 
 Find the value of g(3) if
 
-$$ g(x) = x^2 + 2 $$
+![](http://upload-images.jianshu.io/upload_images/1384772-fdc3ebb95c51f31b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Solution
 Replace each occurrence of x with 3.
 
-$$ g(3) = 3^2 + 2 $$
+![](http://upload-images.jianshu.io/upload_images/1384772-a4c4584ccb688df0.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Simplify.
 
-$$g(3) = 9 + 2 = 11 $$
+![](http://upload-images.jianshu.io/upload_images/1384772-4293d2b10f5cd8ae.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Example
 Find the value of h(-4) if 
 
-$$h(t) = t^3 - 2t^2 + 5$$
+![](http://upload-images.jianshu.io/upload_images/1384772-a110b39fced3dba2.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Simplify.
 
-$$h(-4) = -64 - 2(16) + 5 = -64-32+5 = -91$$
+![](http://upload-images.jianshu.io/upload_images/1384772-efa16a8834598eef.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Practice
 
-<b>1.</b> Find the value of f(5) when f(x) = 2x - 1.
+**1.** Find the value of f(5) when f(x) = 2x - 1.
 
-<b>2.</b> Find the value of g(-3) when 
+**2.** Find the value of g(-3) when 
 
-$$ g(x) = x^3 + x^2 + x + 1.$$
+![](http://upload-images.jianshu.io/upload_images/1384772-1f77e34f935c087d.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-<b>3.</b> FInd the value of h(1/2) when 
 
-$$ h(t) = t^2 +  {3 \over 4}. $$
+**3.** FInd the value of h(1/2) when 
 
-<b>4.</b> Find the value of f(7) when f(x) = 2
+![](http://upload-images.jianshu.io/upload_images/1384772-6bfebdb2354dd67a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-<b>5.</b> Find the value of m(-1/5) when 
 
-$$ m(t) = -5t^3$$.
+**4.** Find the value of f(7) when f(x) = 2
 
-<b>6.</b> Find the value of h(64) when 
+**5.** Find the value of m(-1/5) when 
 
-$$ h(x) = \sqrt{x} - \sqrt[3]x$$
+![](http://upload-images.jianshu.io/upload_images/1384772-94fc7532a4721ceb.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+.
 
-<b>7.</b> Suppose that after t seconds, a rock thrown off a bridge has height
+**6.** Find the value of h(64) when 
+![](http://upload-images.jianshu.io/upload_images/1384772-190474261a84829a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-$$ s(t) = -16t^2 + 20t + 100$$
+
+**7.** Suppose that after t seconds, a rock thrown off a bridge has height
+
+![](http://upload-images.jianshu.io/upload_images/1384772-79217e7ddf000c35.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 feet of the ground. What is the height above the ground after 3 seconds?
 
-<b>8.</b> Suppose that the profit on making and selling x cookies is 
+**8.** Suppose that the profit on making and selling x cookies is 
 
-$$ P(x) = {x \over 2} - {x^2 \over 10,000} - 10.$$
+![](http://upload-images.jianshu.io/upload_images/1384772-ad78227e5cd17271.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 How much profit is made on selling 100 cookies?
 
@@ -108,59 +121,75 @@ Variables can be plugged into functions just as easily as numbers can. Often tho
 ####Example
 Simplify f(w) if
 
-$$f(x) = \sqrt{x} + 2x^2+2$$
+![](http://upload-images.jianshu.io/upload_images/1384772-2244bd7146962181.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Solution
 Replace each occurrence of x with w.
 
-$$f(w) = \sqrt{w} + 2w^2 + 2$$
+![16.gif](http://upload-images.jianshu.io/upload_images/1384772-3244f2d489da245f.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 That is all we can say without knowing more about w.
 
 ####Example
 Simplify g(a + 5) if
 
-$$ g(t) = t^2 - 3t + 1.$$
+![](http://upload-images.jianshu.io/upload_images/1384772-66eedb73e75af4c8.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Solution
 Replace each occurence of t with (a+5).
 
-$$g(a + 5) = (a + 5)^2 - 3(a + 5) + 1$$
+![](http://upload-images.jianshu.io/upload_images/1384772-e12baed381acffaa.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Multiply out 
 
-$$(a + 5)^2$$ and $$-3(a + 5)$$.
+![](http://upload-images.jianshu.io/upload_images/1384772-7da83c50f075fd19.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-$$g(a+5)= a^2 + 10a + 25 - 3a - 15 + 1 $$
+
+![](http://upload-images.jianshu.io/upload_images/1384772-9c937726909dabb7.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Simplify.
 
-$$ g(a + 5) = a^2 + 7a + 11 $$
+![](http://upload-images.jianshu.io/upload_images/1384772-b913e8017735f935.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Example
 Simplify 
 
-$$f(x + a) - f(x) \over a$$
+![](http://upload-images.jianshu.io/upload_images/1384772-3638d7b9953a4438.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-if $$f(x) = x^2 $$
+
+if ![](http://upload-images.jianshu.io/upload_images/1384772-4fb43f56de7ff840.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ####Solution
 Start with what needs to be simplified.
-$$ f(x+a) - f(x) \over a $$
+![](http://upload-images.jianshu.io/upload_images/1384772-33242c5df913e1b8.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-Use $$f(x) = x^2 $$ to evaluate f(x + a) and f(x).
 
-Multiply out $$(x + a)^2.$$
+Use ![](http://upload-images.jianshu.io/upload_images/1384772-b0ba447dad870c52.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ to evaluate f(x + a) and f(x).
 
-Cancel the $$x^2$$ and the $$-x^2$$
+Multiply out ![](http://upload-images.jianshu.io/upload_images/1384772-0af7265b0ba35130.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+Cancel the ![](http://upload-images.jianshu.io/upload_images/1384772-8658c4469c04cbed.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ and the ![](http://upload-images.jianshu.io/upload_images/1384772-171d484ecec31e97.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Factor out an a.
 
-$$(2x + a)a \over a$$
+![](http://upload-images.jianshu.io/upload_images/1384772-f0c11f64644327db.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Cancel an a from the top and bottom.
 
-$$2x + a$$
+![](http://upload-images.jianshu.io/upload_images/1384772-331b860b7c83fbec.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 
@@ -176,10 +205,3 @@ $$2x + a$$
 
 
 Reference book "CALCULUS success in 20 minutes a Day"(Mark A. McKibben)
-
-
-
-
-
-
-
