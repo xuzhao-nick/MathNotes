@@ -75,7 +75,7 @@ Simplify.
 ![](http://upload-images.jianshu.io/upload_images/1384772-efa16a8834598eef.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Practice
+#### Practice
 
 **1.** Find the value of f(5) when f(x) = 2x - 1.
 
