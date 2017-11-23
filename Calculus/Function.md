@@ -138,7 +138,8 @@ Simplify g(a + 5) if
 ![](http://upload-images.jianshu.io/upload_images/1384772-66eedb73e75af4c8.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Solution
+#### Solution
+
 Replace each occurence of t with (a+5).
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-e12baed381acffaa.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
