@@ -1,4 +1,4 @@
-##Functions
+## Functions
 
 A  function is a way of maching up one set of numbers with another. The first set of numbers is called the domain. For each of the numbers in the domain, the function assigns exactly one number from the other set, the range.
 
@@ -46,14 +46,14 @@ This tells us that putting a number into the function <i>f</i> is the same as pu
 
 
 
-####Example
+#### Example
 
 Find the value of g(3) if
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-fdc3ebb95c51f31b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Solution
+#### Solution
 Replace each occurrence of x with 3.
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-a4c4584ccb688df0.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -64,7 +64,7 @@ Simplify.
 ![](http://upload-images.jianshu.io/upload_images/1384772-4293d2b10f5cd8ae.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Example
+#### Example
 Find the value of h(-4) if 
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-a110b39fced3dba2.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -114,17 +114,17 @@ feet of the ground. What is the height above the ground after 3 seconds?
 
 How much profit is made on selling 100 cookies?
 
-##Plugging Variables into Functions
+## Plugging Variables into Functions
 
 Variables can be plugged into functions just as easily as numbers can. Often though, the result can't be simplified as much.
 
-####Example
+#### Example
 Simplify f(w) if
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-2244bd7146962181.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Solution
+#### Solution
 Replace each occurrence of x with w.
 
 ![16.gif](http://upload-images.jianshu.io/upload_images/1384772-3244f2d489da245f.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -132,7 +132,7 @@ Replace each occurrence of x with w.
 
 That is all we can say without knowing more about w.
 
-####Example
+#### Example
 Simplify g(a + 5) if
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-66eedb73e75af4c8.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -157,7 +157,7 @@ Simplify.
 ![](http://upload-images.jianshu.io/upload_images/1384772-b913e8017735f935.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Example
+#### Example
 Simplify 
 
 ![](http://upload-images.jianshu.io/upload_images/1384772-3638d7b9953a4438.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -166,7 +166,7 @@ Simplify
 if ![](http://upload-images.jianshu.io/upload_images/1384772-4fb43f56de7ff840.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####Solution
+#### Solution
 Start with what needs to be simplified.
 ![](http://upload-images.jianshu.io/upload_images/1384772-33242c5df913e1b8.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
